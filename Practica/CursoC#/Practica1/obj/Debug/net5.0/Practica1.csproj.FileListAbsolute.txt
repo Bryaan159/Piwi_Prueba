@@ -1,0 +1,16 @@
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Practica1\bin\Debug\net5.0\Practica1.exe
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Practica1\bin\Debug\net5.0\Practica1.deps.json
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Practica1\bin\Debug\net5.0\Practica1.runtimeconfig.json
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Practica1\bin\Debug\net5.0\Practica1.runtimeconfig.dev.json
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Practica1\bin\Debug\net5.0\Practica1.dll
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Practica1\bin\Debug\net5.0\ref\Practica1.dll
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Practica1\bin\Debug\net5.0\Practica1.pdb
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Practica1\obj\Debug\net5.0\Practica1.csprojAssemblyReference.cache
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Practica1\obj\Debug\net5.0\Practica1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Practica1\obj\Debug\net5.0\Practica1.AssemblyInfoInputs.cache
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Practica1\obj\Debug\net5.0\Practica1.AssemblyInfo.cs
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Practica1\obj\Debug\net5.0\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Practica1\obj\Debug\net5.0\Practica1.dll
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Practica1\obj\Debug\net5.0\ref\Practica1.dll
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Practica1\obj\Debug\net5.0\Practica1.pdb
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Practica1\obj\Debug\net5.0\Practica1.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Excercise\Excer1-10\bin\Debug\net5.0\Excer1-10.exe
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Excercise\Excer1-10\bin\Debug\net5.0\Excer1-10.deps.json
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Excercise\Excer1-10\bin\Debug\net5.0\Excer1-10.runtimeconfig.json
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Excercise\Excer1-10\bin\Debug\net5.0\Excer1-10.runtimeconfig.dev.json
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Excercise\Excer1-10\bin\Debug\net5.0\Excer1-10.dll
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Excercise\Excer1-10\bin\Debug\net5.0\ref\Excer1-10.dll
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Excercise\Excer1-10\bin\Debug\net5.0\Excer1-10.pdb
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Excercise\Excer1-10\obj\Debug\net5.0\Excer1-10.csprojAssemblyReference.cache
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Excercise\Excer1-10\obj\Debug\net5.0\Excer1-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Excercise\Excer1-10\obj\Debug\net5.0\Excer1-10.AssemblyInfoInputs.cache
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Excercise\Excer1-10\obj\Debug\net5.0\Excer1-10.AssemblyInfo.cs
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Excercise\Excer1-10\obj\Debug\net5.0\Excer1-10.csproj.CoreCompileInputs.cache
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Excercise\Excer1-10\obj\Debug\net5.0\Excer1-10.dll
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Excercise\Excer1-10\obj\Debug\net5.0\ref\Excer1-10.dll
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Excercise\Excer1-10\obj\Debug\net5.0\Excer1-10.pdb
+C:\Users\grayz\Documents\C++\POO\Practica\CursoC#\Excercise\Excer1-10\obj\Debug\net5.0\Excer1-10.genruntimeconfig.cache
